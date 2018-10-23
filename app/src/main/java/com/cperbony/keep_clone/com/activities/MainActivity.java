@@ -1,8 +1,9 @@
-package com.cperbony.keep_clone;
+package com.cperbony.keep_clone.com.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.cperbony.keep_clone.R;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
