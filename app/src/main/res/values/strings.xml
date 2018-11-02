@@ -4,4 +4,10 @@
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
     <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="action_text_register">Do not have account yet? Register Here!</string>
+    <string name="action_text_login">Already have account? Login Here!</string>
+    <string name="error_valid_email">Enter Valid Email</string>
+    <string name="error_password">Enter Valid Password</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>
